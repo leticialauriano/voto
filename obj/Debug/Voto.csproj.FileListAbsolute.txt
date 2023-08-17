@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\bin\Debug\Voto.exe.config
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\bin\Debug\Voto.exe
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\bin\Debug\Voto.pdb
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\obj\Debug\Voto.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\obj\Debug\Voto.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\obj\Debug\Voto.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\obj\Debug\Voto.exe
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Voto\obj\Debug\Voto.pdb
